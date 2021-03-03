@@ -8,4 +8,6 @@ A simple image recognition tool that classifies whether the image is of a dog or
 
 2. Tensflow v2.0
 `pip install tensorflow`
+# dataset
+[kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 
